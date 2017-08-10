@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            Article one 1 vinay kumar
+        </title>
+    </head>
+    <body>
+        <div>
+            <a href="/">home</a>
+        </div>
+        <hr/>
+        <h3>
+            article one
+        </h3>
+        <div>
+            sep 5, 2017
+        </div>
+        <div>
+            <p>
+            This is my second article.
+            </p>
+                
+        </div>
+    </body>
+    </html>
